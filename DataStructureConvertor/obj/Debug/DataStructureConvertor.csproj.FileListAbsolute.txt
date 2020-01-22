@@ -1,0 +1,164 @@
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+D:\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.ConvertorForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.ConvertorForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertor\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.ConvertorForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorToDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.ConvertorForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebug\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.ConvertorForm.resources
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Desktop\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.ConvertorForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorAfterDebugSerializer\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\obj\Debug\DataStructureConvertor.ConvertorForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConvertorSaveDialog\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+d:\programovani\C_SHARP\Vyuka\DataStructureConverter\DataStructureConvertor\obj\Debug\DataStructureConvertor.MainForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.MainForm.resources
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\programyMPRO\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.MainForm.resources
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+e:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.MainForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\Microsoft.Data.ConnectionUI.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CopyComplete
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\CsvHelper.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\System.ValueTuple.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\CsvHelper.xml
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\System.ValueTuple.xml
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\CsvHelper.dll
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\Microsoft.Data.ConnectionUI.dll
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\System.ValueTuple.dll
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\CsvHelper.xml
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\System.ValueTuple.xml
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.MainForm.resources
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CopyComplete
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+E:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\CsvHelper.dll
+E:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+E:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\Microsoft.Data.ConnectionUI.dll
+E:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\System.ValueTuple.dll
+E:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\CsvHelper.xml
+E:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\System.ValueTuple.xml
+E:\programovani\C_SHARP\Vyuka\Kuba\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CopyComplete
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\obj\Debug\DataStructureConvertor.UrlDialog.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe.config
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\DataStructureConvertor.pdb
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\CsvHelper.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\Microsoft.Data.ConnectionUI.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\System.ValueTuple.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\CsvHelper.xml
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\System.ValueTuple.xml
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.csprojAssemblyReference.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.MainForm.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.Properties.Resources.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.UrlDialog.resources
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.GenerateResource.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CoreCompileInputs.cache
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.csproj.CopyComplete
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.exe
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\obj\Debug\DataStructureConvertor.pdb
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jvlcek\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO\DataStructureConvertor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yourchoice\Disk Google\projects\Csharp\projektyCsharp\WINFORMS\DataStructureConverterMPRO (1)\DataStructureConvertor\bin\Debug\Newtonsoft.Json.xml

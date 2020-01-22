@@ -1,0 +1,54 @@
+﻿1) dodelej nacitani pres XML a ukladani do CSV //done
+2) dodelej tridy pro nacitani a ukladani do databaze //done
+2a) nainstanuj si k sobe mssql express, vytvor databazi, tabulku (vymysli si nazev, ID:int, Nazev(varchar-MAX)) //done
+2b) pravdepodobne budes potrebovat ucet v mssql pro pripojeni do databaze //done
+2c) pro nastaveni ConnectionString vyuzij s vyhodou pripraveny dialog: //done
+   https://stackoverflow.com/questions/6895251/display-a-connectionstring-dialog
+   budes potrebovat nuget hnihovnu 
+   https://www.nuget.org/packages/DataConnectionDialog
+
+2d) pro nacteni dat vyuzij tridu SqlDataReader //done
+
+using (SqlConnection Conn = new SqlConnection()) //done
+    {
+        Conn.ConnectionString = "Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;";//tady vlozis connection string
+        try
+        {
+            Conn.Open();//It stops here, any advice ?
+            
+			SqlCommand prikaz = new SqlCommand("SELECT Id, Nazev FROM tabulka", Conn);//bacha je IDisposable
+			SqlDataReader dataReader = prikaz.ExecuteReader();//bacha je IDisposable
+        }
+        catch (Exception Ex)
+        {
+            MessageBox.Show(Ex.ToString());
+
+        }
+    }  
+
+
+----PY 3 endpointy
+1) pocet zaznamu (n)
+2) vratit i-ty zaznam z n ve formatu XML nebo JSON
+3) zapis noveho prvku
+
+--uvnit input in / out implementuj napr. takto:
+			var webRequest = (HttpWebRequest)WebRequest.Create(url);
+            webRequest.ContentType = "application/x-www-form-urlencoded";
+            webRequest.Method = "GET";
+
+            using (var streamResponse = webRequest.GetResponse().GetResponseStream())
+            {
+                if (streamResponse != null)
+                {
+                    using (var streamRead = new StreamReader(streamResponse))
+                    {
+                        var str = streamRead.ReadToEnd();
+                    }
+                }
+            }
+
+
+			https://www.newtonsoft.com/json
+			https://stackoverflow.com/questions/4015324/how-to-make-http-post-web-request
+			https://xdk.bosch-connectivity.com/community/-/message_boards/message/297785
